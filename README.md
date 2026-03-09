@@ -1,22 +1,28 @@
-# Quick-iLvl-3.3.5
+Quick-iLvl-3.3.5
 
-Un addon ultra-léger pour **World of Warcraft: Wrath of the Lich King (3.3.5)** qui affiche le niveau d'objet (Item Level) directement sur votre fiche personnage.
+A lightweight World of Warcraft: Wrath of the Lich King (3.3.5) addon that displays the Item Level (iLvl) directly on your character sheet.
+✨ Features
 
-## ✨ Fonctionnalités
-* **Fiche Personnage :** Visualisez instantanément l'iLvl de chaque pièce d'équipement sur votre fenêtre de personnage (touche 'C' par défaut).
-* **Mise à jour dynamique :** Le texte s'actualise dès que vous changez d'équipement.
-* **Optimisé pour 3.3.5 :** Conçu spécifiquement pour la version Wrath of the Lich King.
-* **Minimaliste :** Pas de menu, pas de configuration, consomme presque zéro ressource.
+    Character Frame: Instantly view the iLvl of every equipped item on your character window (default key 'C').
 
-## 🛠️ Installation
-1. Téléchargez l'archive (ZIP) du dépôt.
-2. Dézippez le contenu.
-3. Placez le dossier `Quick-ilvl-3.3.5` dans votre répertoire de jeu :  
-   `World of Warcraft/Interface/AddOns/`
-4. Lancez le jeu et profitez !
+    Dynamic Updates: Text updates automatically as soon as you swap gear.
 
-## 📝 Note Technique
-L'addon surveille les événements système (`UNIT_INVENTORY_CHANGED`, `PLAYER_ENTERING_WORLD`) pour garantir que les informations affichées sont toujours exactes après un changement d'équipement ou un écran de chargement.
+    3.3.5 Optimized: Specifically designed for the Wrath of the Lich King expansion.
 
----
-*Développé pour la communauté WotLK.*
+    Minimalist: No menus, no configuration needed, and near-zero resource consumption.
+
+🛠️ Installation
+
+    Download the repository ZIP archive.
+
+    Extract the contents.
+
+    Move the Quick-ilvl-3.3.5 folder into your game directory:
+
+    World of Warcraft/Interface/AddOns/
+
+    Launch the game and enjoy!
+
+📝 Technical Note
+
+The addon monitors system events (UNIT_INVENTORY_CHANGED, PLAYER_ENTERING_WORLD) to ensure displayed information remains accurate after gear swaps or loading screens.
