@@ -1,0 +1,5 @@
+## Interface: 30300
+## Title: Quick-iLvl-3.3.5
+## Notes: Affiche l'ilvl sur les icônes (Personnage)
+
+Quick-iLvl-3.3.5.lua
