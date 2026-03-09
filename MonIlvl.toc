@@ -1,0 +1,4 @@
+## Interface: 30300
+## Title: MonIlvl
+## Notes: Affiche l'ilvl sur les icônes (Sacs et Personnage)
+MonIlvl.lua
